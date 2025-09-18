@@ -13,7 +13,7 @@ export const Footer = () => {
                 <Shield className="w-6 h-6 text-primary" />
               </div>
               <div>
-                <h3 className="font-bold text-xl">CampusSafe</h3>
+                <h3 className="font-bold text-xl">CampusReady</h3>
                 <p className="text-primary-foreground/80 text-sm">Disaster Preparedness</p>
               </div>
             </div>
@@ -84,7 +84,7 @@ export const Footer = () => {
             <div className="space-y-3 text-sm">
               <div className="flex items-center space-x-3">
                 <Mail className="w-4 h-4" />
-                <span className="text-primary-foreground/80">support@campussafe.in</span>
+                <span className="text-primary-foreground/80">support@campusReady.in</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-4 h-4" />
@@ -107,7 +107,7 @@ export const Footer = () => {
 
         <div className="border-t border-white/20 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center text-sm">
           <p className="text-primary-foreground/80">
-            © 2024 CampusSafe. Built in partnership with NDMA. All rights reserved.
+            © 2024 CampuR. Built in partnership with NDMA. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-primary-foreground/80 hover:text-white transition-colors">
